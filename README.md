@@ -19,7 +19,7 @@ Underline is a practice platform that I designed, built and deployed on my own. 
 ![Teacher dashboard](screenshots/v1-oct-2026/05-teacher-dashboard.png)
 ![Question ingestion and review](screenshots/v1-oct-2026/06-teacher-question-ingest.png)
 ![Test analytics](screenshots/v1-oct-2026/07-teacher-test-analytics.png)
-![Login](screenshots/v1-oct-2026/08-login.png)
+![Register](screenshots/v1-oct-2026/08-register.png)
 
 ## Features
 
